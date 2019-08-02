@@ -1,4 +1,4 @@
-
+program ggg;
 
 
 var
